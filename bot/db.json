@@ -1,0 +1,23 @@
+[
+    {
+        "page_id": "43c65333-d52b-45dd-a44d-365df8b26ed6",
+        "Name": "Electricity",
+        "Budget": 1000,
+        "Spending": 500,
+        "Balance": 500
+    },
+    {
+        "page_id": "6bea1c5d-bedd-4155-ac96-4d24831dc761",
+        "Name": "Water",
+        "Budget": 200,
+        "Spending": 100,
+        "Balance": 100
+    },
+    {
+        "page_id": "a5e7330b-7431-49cd-ae35-24a82d5c5b7a",
+        "Name": "Food",
+        "Budget": 500,
+        "Spending": 135,
+        "Balance": 365
+    }
+]
