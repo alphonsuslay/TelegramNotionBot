@@ -2,7 +2,7 @@
 Made a telegram bot that can access your budget tracker in Notion.
 
 ##Commands
-/start: Start the bot
+```/start: Start the bot
 
 /help: Display available commands
 
@@ -10,7 +10,7 @@ Made a telegram bot that can access your budget tracker in Notion.
 
 /update [item], [Budget/Spending], [Amount]: Modify item
 
-/add [item], [Budget Amt], [Spending Amt]: Adds item to table
+/add [item], [Budget Amt], [Spending Amt]: Adds item to table```
 
 
 ##How it works
